@@ -4,7 +4,8 @@ import pygame
 import random
 import math
 
-# Initialize Pygame
+# Initialize Pygames
+#this is the game
 pygame.init()
 pygame.font.init()
 
